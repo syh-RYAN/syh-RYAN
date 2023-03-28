@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=썩지않는사과%20Github&fontSize=80&animation=fadeIn&fontAlignY=38&desc=&descAlignY=53&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=syh%20Github&fontSize=80&animation=fadeIn&fontAlignY=38&desc=&descAlignY=53&descAlign=70)
 
   
 ## 💻 기술 스택
@@ -54,5 +54,5 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-  ![ykh9871's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykh9871&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykh9871&show_icons=true&theme=radical)
+  ![syh-RYAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=syh-RYAN&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syh-RYAN&show_icons=true&theme=radical)
   
