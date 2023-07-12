@@ -41,8 +41,10 @@
 
 ### 🛠엔지니어링
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white">
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
+
+### 💡Used at least once
+<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=for-the-badge&logo=Apache Hadoop&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white">
 
 ### 🕓 버전관리
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -50,6 +52,8 @@
 ### 💬 의사소통
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
 
   ![syh-RYAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=syh-RYAN&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syh-RYAN&show_icons=true&theme=radical)
   
